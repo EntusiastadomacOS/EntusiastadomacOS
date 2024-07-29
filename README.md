@@ -1,10 +1,12 @@
 # Oi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" />
-# Eu sou [Luan,]() Analista de TI /Developer
-Sou designer, desenvolvedor de software e entusiasta do macOS, apaixonado por engenharia reversa do macOS.
+# Eu sou [Luan,]() Analista de TI /Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="50" height="50" />
+Analista de Segurança da Informação, Ethical Hacker, Cyber Security, Software Developer,
+UX/UI Designer, desenvolvedor de software e entusiasta do macOS, apaixonado por engenharia reversa do macOS.
 Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas complexos...
 
+# Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,Linux,kali,py,js,html,css,Docker,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,kali,bash,powershell,git,github,py,js,html,css,docker,figma,)](https://skillicons.dev)
 
 <!--
 **EntusiastadomacOS/EntusiastadomacOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
