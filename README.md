@@ -1,9 +1,6 @@
-# Oi, <img src="C:\Users\Luan Designer\Desktop\GitHub Readme\Waving Hand Light Skin Tone.png" style="zoom: 25%;" />
-
+# Oi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 # Eu sou [Luan]()
-
 # Analista de TI 
-
 # /Developer
 
 <!--
