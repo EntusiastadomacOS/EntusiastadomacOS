@@ -1,6 +1,10 @@
 # Oi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" />
 # Eu sou [Luan,]() Analista de TI /Developer
-Sou um desenvolvedor de software e entusiasta do macOS, apaixonado por engenharia reversa do macOS.
+Sou designer, desenvolvedor de software e entusiasta do macOS, apaixonado por engenharia reversa do macOS.
+Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas complexos...
+
+
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,Linux,kali,py,js,html,css,Docker,figma,)](https://skillicons.dev)
 
 <!--
 **EntusiastadomacOS/EntusiastadomacOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
