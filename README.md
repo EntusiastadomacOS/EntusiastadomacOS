@@ -1,4 +1,10 @@
-## Hi there 👋
+# Oi, <img src="C:\Users\Luan Designer\Desktop\GitHub Readme\Waving Hand Light Skin Tone.png" style="zoom: 25%;" />
+
+# Eu sou [Luan]()
+
+# Analista de TI 
+
+# /Developer
 
 <!--
 **EntusiastadomacOS/EntusiastadomacOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
