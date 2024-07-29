@@ -1,7 +1,5 @@
 # Oi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="50" height="50" />
-# Eu sou [Luan]()
-# Analista de TI 
-# /Developer
+# Eu sou [Luan]() Analista de TI /Developer
 
 <!--
 **EntusiastadomacOS/EntusiastadomacOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
