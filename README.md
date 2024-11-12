@@ -7,7 +7,7 @@ Sou um profissional de Tecnologia da Informação apaixonado por resolver proble
 ### My Skills
 
 <p align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/apple-512.png" width="36" height="36" alt="macOS" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIKkbFzb2FTlF2WQ48j5wy23fAE7L7ImTd36i0Lvk5aFEaplmmVFha9Mpoj4lYccM8_0&usqp=CAU" width="36" height="36" alt="macOS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://preview.redd.it/sudz5o3s1vn91.png?width=1080&format=png&auto=webp&s=27107d9d26f3b82ee00f53becd873b7bef881744" width="36" height="36" alt="Windows 11" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png" width="36" height="36" alt="Linux" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="36" height="36" alt="Kali Linux" /></a>
@@ -25,6 +25,7 @@ Sou um profissional de Tecnologia da Informação apaixonado por resolver proble
 <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="#" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp" width="36" height="36" alt="Supabase" /></a>
 <a href="#" rel="noreferrer"><img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="36" height="36" alt="Firebase" /></a>
+<a href="#" rel="noreferrer"><img src="https://camo.githubusercontent.com/237e20be5fcfd8f7133f43d126fc49fb29dec7631679938bdd2ecb8cbb2a610e/68747470733a2f2f766974652e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
